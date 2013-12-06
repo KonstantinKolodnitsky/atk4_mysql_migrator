@@ -1,0 +1,12 @@
+{
+    "name": "KonstantinKolodnitsky/atk4_mysql_migrator",
+    "type": "library",
+    "version": "4.3",
+    "keywords": [" mysql database migrator","atk4"],
+    "homepage": "https://github.com/KonstantinKolodnitsky/atk4_mysql_migrator",
+    "source": {
+        "url": "git@github.com:KonstantinKolodnitsky/atk4_mysql_migrator.git",
+        "type": "git",
+        "reference": "origin/4.3"
+    }
+}
